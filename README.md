@@ -1,7 +1,8 @@
 BTC9000A Configuration Script
 =============================
 
-Linux config script for BTC 9000A PS/2 keyboard.
+Linux config script for BTC 9000A PS/2 keyboard. It assigns key's scancodes to adequate Xorg events.
+There is no 'shortcut' Xorg event, so I assigned it with XF86Documents.
 
 Scancodes:
 ----------
