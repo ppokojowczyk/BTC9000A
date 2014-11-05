@@ -11,7 +11,7 @@ Scancodes:
 
 ![Keys layout](keys.jpg)
 
-* e05e - Shutdown -> XF86Poweroff
+* e05e - Shutdown -> XF86PowerOff
 * e05f - Sleep -> XF86Suspend
 * e063 - Wake Up -> XF86WakeUp
 * e02e - Help -> Help
