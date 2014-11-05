@@ -7,6 +7,8 @@ There is no 'Shortcut' Xorg event, so I assigned it to XF86Documents.
 Scancodes:
 ----------
 
+![Keys layout](keys.jpg)
+
 * e05e - Shutdown
 * e05f - Sleep
 * e063 - Wake Up
