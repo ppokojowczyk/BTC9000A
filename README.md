@@ -4,7 +4,7 @@ BTC9000A Configuration Script
 Linux config script for BTC 9000A PS/2 keyboard.
 
 Scancodes:
-==========
+----------
 
 * e05e - Shutdown
 * e05f - Sleep
